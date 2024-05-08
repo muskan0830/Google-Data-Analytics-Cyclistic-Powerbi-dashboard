@@ -1,5 +1,7 @@
 ## Cyclistic Power BI Dashboard
 
+<a href="https://app.powerbi.com/links/EVlY7EUaXW?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare">Access My Dashboard from here!</a>
+
 ### Overview:
 The Cyclistic Power BI Dashboard project is a pivotal component of the Google Data Analytics Capstone, showcasing advanced data analysis and visualization skills. The project involves transforming raw Cyclistic bike-share data into actionable insights through interactive dashboards.
 
